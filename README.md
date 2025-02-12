@@ -1,6 +1,6 @@
 # ATENÇÃO / ATTENTION
 
-(PT-BR): Esse repositório está desatualizado e não recebe mais atualizações e nem suporte. Isto é um arquivo público, e serve apenas para fins de experimento, testes e história do projeto. O criador original do projeto é o [op3ny](https://github.com/op3ny), e caso queira acessar o LivePub no repositório do criador original, [clique aqui!](https://github.com/op3n/LivePub100)
+(PT-BR): Esse repositório está desatualizado e não recebe mais atualizações e nem suporte. Isto é um arquivo público, e serve apenas para fins de experimento, testes e história do projeto. O criador original do projeto é o [op3ny](https://github.com/op3ny), e caso queira acessar o LivePub no repositório do criador original, [clique aqui!](https://github.com/op3ny/LivePub100)
 
 ---
 
